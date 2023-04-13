@@ -1,0 +1,9 @@
+@import "./base.css";
+
+#app {
+  width: 384px;
+  background-color: rgb(100, 173, 198);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: #303030;
+}
